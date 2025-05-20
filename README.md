@@ -82,3 +82,7 @@ Substitua as imagens na pasta `images` por outras de sua preferência.
 🙌 Agradecimentos
 Este projeto foi desenvolvido com fins educacionais, visando promover o conhecimento das ilhas de Cabo Verde de maneira interativa e acessível.
 
+![Carousel CV](https://github.com/user-attachments/assets/2ce3c93c-5edf-4fe6-b79f-0899667c287b)
+
+
+
