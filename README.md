@@ -1,5 +1,6 @@
 
-#Cabo Verde - Ilhas com Localização Interativag
+#Cabo Verde - Ilhas com Localização Interativa
+
 Projeto web interativo que apresenta as 10 ilhas de Cabo Verde utilizando um slider dinâmico feito com Swiper.js. Cada slide apresenta a imagem de fundo da ilha, nome, descrição resumida e um botão de localização que leva diretamente ao Google Maps, permitindo ao usuário explorar visualmente cada ilha e conhecer sua localização geográfica.
 
 
@@ -84,5 +85,6 @@ Este projeto foi desenvolvido com fins educacionais, visando promover o conhecim
 
 ![Carousel CV](https://github.com/user-attachments/assets/2ce3c93c-5edf-4fe6-b79f-0899667c287b)
 
+![SV_MAPS](https://github.com/user-attachments/assets/f3909636-a770-4e9f-b067-5c9ce31d7740)
 
 
